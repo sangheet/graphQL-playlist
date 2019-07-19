@@ -53,6 +53,7 @@ form {
   left: 0;
   bottom: 0;
   width: 400px;
+  border-radius: 10px;
 }
 form .field{
   display: grid;
@@ -94,7 +95,7 @@ form button{
 
 
 .add-author{
-  background: rgb(143, 142, 142);
+  background: #c0bebe;
   padding: 20px;
   position: fixed;
   left: 40% !important;
